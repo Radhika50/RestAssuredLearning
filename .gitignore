@@ -6,6 +6,9 @@
 .project
 .settings/
 
+# TestNG
+/test-output/
+
 # Java
 *.class
 
