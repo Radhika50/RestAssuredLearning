@@ -59,8 +59,14 @@
     	<version>5.2.5</version>
 	</dependency>
 
+	<!-- Jackson Databind for JSON serialization -->
+	<dependency>
+    	<groupId>com.fasterxml.jackson.core</groupId>
+    	<artifactId>jackson-databind</artifactId>
+    	<version>2.15.2</version>
+	</dependency>
 
-
+	
     </dependencies>
 
 </project>
